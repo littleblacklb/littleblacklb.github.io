@@ -3,17 +3,36 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 'LB Systems Notebook'
+subtitle: 'Learning records of Software Engineering, Embedded Development, and Security Research'
+description: 'This blog explores computer science and electronic engineering through system-level thinking. I write about software architecture, embedded systems, networking, security research, and engineering fundamentals, emphasizing first-principles reasoning and practical implementation.'
+keywords: 
+- computer science blog
+- electronic engineering
+- systems engineering
+- software engineering
+- systems programming
+- backend development
+- embedded systems
+- networking
+- Python
+- C++
+- Linux
+- CTF
+- web security
+- reverse engineering
+- security research
+- first principles
+- technical learning notes
+author: 'littleblack LB'
+language:
+- en
+- zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://littlblacklb.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
