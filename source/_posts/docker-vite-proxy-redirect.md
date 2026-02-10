@@ -1,6 +1,10 @@
+---
+title: "The 307 Redirect Trap: When Docker, Vite Proxy, and FastAPI Collide"
+---
+
 # The 307 Redirect Trap: When Docker, Vite Proxy, and FastAPI Collide
 
-> How a seemingly correct proxy configuration can break your app — and the one-line fix that saves it.
+> How a  seemingly  correct proxy configuration can break your app — and the one-line fix that saves it.
 
 ## The Setup
 
