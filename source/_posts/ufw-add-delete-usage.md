@@ -1,5 +1,5 @@
 ---
-title: UFW Practical Guide: Adding and Deleting Firewall Policies
+title: "UFW Practical Guide: Adding and Deleting Firewall Policies"
 ---
 
 # UFW Practical Guide: Adding and Deleting Firewall Policies
