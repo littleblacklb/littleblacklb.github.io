@@ -1,3 +1,7 @@
+---
+title: UFW Practical Guide: Adding and Deleting Firewall Policies
+---
+
 # UFW Practical Guide: Adding and Deleting Firewall Policies
 
 UFW (Uncomplicated Firewall) is a high-level frontend for `iptables`/`nftables` designed to simplify firewall management while preserving deterministic rule control. This article focuses specifically on **policy creation (add)** and **policy removal (delete)** in production environments.

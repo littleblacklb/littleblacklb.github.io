@@ -1,3 +1,7 @@
+---
+title: Why Your Asyncio Tasks Are Dying Silently in FastAPI
+---
+
 # Why Your Asyncio Tasks Are Dying Silently in FastAPI
 
 Async and await are powerful features in Python, but they come with their own set of pitfalls, especially when dealing with garbage collection. I recently encountered a frustrating bug in my FastAPI application where a background task would crash silently or complain about being destroyed while still pending. Here's what happened and how I fixed it.
